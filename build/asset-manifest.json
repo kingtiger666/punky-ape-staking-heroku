@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.cc0de5a2.chunk.css",
-    "main.js": "/static/js/main.e3827b88.chunk.js",
+    "main.css": "/static/css/main.f21ed6f0.chunk.css",
+    "main.js": "/static/js/main.8b91e517.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.d733170b.js",
-    "static/css/2.623df6c3.chunk.css": "/static/css/2.623df6c3.chunk.css",
-    "static/js/2.12c19730.chunk.js": "/static/js/2.12c19730.chunk.js",
+    "static/css/2.91dc4e4f.chunk.css": "/static/css/2.91dc4e4f.chunk.css",
+    "static/js/2.18786933.chunk.js": "/static/js/2.18786933.chunk.js",
     "index.html": "/index.html",
-    "static/js/2.12c19730.chunk.js.LICENSE.txt": "/static/js/2.12c19730.chunk.js.LICENSE.txt",
+    "static/js/2.18786933.chunk.js.LICENSE.txt": "/static/js/2.18786933.chunk.js.LICENSE.txt",
+    "static/media/Founders.png": "/static/media/Founders.328948f9.png",
     "static/media/FreeSansBold.ttf": "/static/media/FreeSansBold.974eea1b.ttf",
+    "static/media/LP.png": "/static/media/LP.5f3fe39d.png",
+    "static/media/Layer 5.png": "/static/media/Layer 5.0bfc182e.png",
+    "static/media/Liquidity Pool.png": "/static/media/Liquidity Pool.88ed2557.png",
     "static/media/Montserrat-Black.ttf": "/static/media/Montserrat-Black.1b9fba4a.ttf",
     "static/media/Montserrat-BlackItalic.ttf": "/static/media/Montserrat-BlackItalic.d79a80bf.ttf",
     "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.63fae500.ttf",
@@ -29,8 +33,12 @@
     "static/media/Montserrat-ThinItalic.ttf": "/static/media/Montserrat-ThinItalic.bbdcc893.ttf",
     "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.3068cdb4.ttf",
     "static/media/OFL.txt": "/static/media/OFL.a157a413.txt",
+    "static/media/Parlay Council.png": "/static/media/Parlay Council.15dc626d.png",
+    "static/media/Parlay Revenue.png": "/static/media/Parlay Revenue.ca350471.png",
+    "static/media/Parlay Rewards.png": "/static/media/Parlay Rewards.7033c286.png",
     "static/media/README.txt": "/static/media/README.5c8d073c.txt",
     "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.58a88fef.ttf",
+    "static/media/Soulbouncers Re.png": "/static/media/Soulbouncers Re.956d1cec.png",
     "static/media/SourceSansPro-Black.ttf": "/static/media/SourceSansPro-Black.3633cc84.ttf",
     "static/media/SourceSansPro-BlackItalic.ttf": "/static/media/SourceSansPro-BlackItalic.44987292.ttf",
     "static/media/SourceSansPro-Bold.ttf": "/static/media/SourceSansPro-Bold.2dec2f24.ttf",
@@ -43,14 +51,21 @@
     "static/media/SourceSansPro-Regular.ttf": "/static/media/SourceSansPro-Regular.df87f53c.ttf",
     "static/media/SourceSansPro-SemiBold.ttf": "/static/media/SourceSansPro-SemiBold.f2fa8f36.ttf",
     "static/media/SourceSansPro-SemiBoldItalic.ttf": "/static/media/SourceSansPro-SemiBoldItalic.20caf8d0.ttf",
-    "static/media/index.css": "/static/media/background.2e8a65e4.jpg",
-    "static/media/logo.png": "/static/media/logo.171a44ef.png"
+    "static/media/back.svg": "/static/media/back.c191af63.svg",
+    "static/media/index.css": "/static/media/pool1.5006e6e1.jpg",
+    "static/media/background.png": "/static/media/background.5ef05357.png",
+    "static/media/bg.png": "/static/media/bg.cb26f4c9.png",
+    "static/media/character.png": "/static/media/character.a1c48a1f.png",
+    "static/media/logo.png": "/static/media/logo.171a44ef.png",
+    "static/media/logo.svg": "/static/media/logo.fe679f02.svg",
+    "static/media/logo1.png": "/static/media/logo1.526cb169.png",
+    "static/media/wrapper.png": "/static/media/wrapper.ce3cb684.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d733170b.js",
-    "static/css/2.623df6c3.chunk.css",
-    "static/js/2.12c19730.chunk.js",
-    "static/css/main.cc0de5a2.chunk.css",
-    "static/js/main.e3827b88.chunk.js"
+    "static/css/2.91dc4e4f.chunk.css",
+    "static/js/2.18786933.chunk.js",
+    "static/css/main.f21ed6f0.chunk.css",
+    "static/js/main.8b91e517.chunk.js"
   ]
 }
